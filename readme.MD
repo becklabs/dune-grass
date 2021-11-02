@@ -1,3 +1,3 @@
 # DuneGrass
-Preprocessing of UAV Dune Grass imagery
-In Collaboration with CCSCR
+ - Preprocessing of UAV Dune Grass imagery
+ - In Collaboration with CCSCR
